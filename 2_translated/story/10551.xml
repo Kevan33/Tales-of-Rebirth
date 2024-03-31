@@ -349,7 +349,8 @@ taken by this Gajuma!</EnglishText>
       <PointerOffset>3834</PointerOffset>
       <VoiceId>1000003a</VoiceId>
       <JapaneseText>気安く名前を呼ばないで！</JapaneseText>
-      <EnglishText>How dare you speak my name!</EnglishText>
+      <EnglishText>How can you utter my
+name so casually?!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>25</Id>
@@ -694,11 +695,10 @@ family, and yet...</EnglishText>
       <EnglishText>...Hate me. Live so that
 you can take my life with
 your own hands.</EnglishText>
-      <Notes>similar line is below it. marking problematic to be safe
-</Notes>
+      <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>55</Id>
-      <Status>Problematic</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>5899</PointerOffset>
@@ -860,10 +860,10 @@ of my dear friend.</EnglishText>
 俺は再び命を狙われるかもしれない。
 だが、それが彼女の生きる力に
 なるのなら……それでいい。</JapaneseText>
-      <EnglishText>Yes, if she recovers, I may be
-targeted once again. But if it
-gives her the will to live, then...
-so be it.</EnglishText>
+      <EnglishText>Yes. If she recovers, she'll likely
+try to take my life once more.
+But if it gives her the will to
+live...so be it.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>69</Id>
@@ -888,7 +888,7 @@ so be it.</EnglishText>
       <EnglishText>Then you have to promise me
 something, too. Promise me
 that you won't be reckless
-with your own life. So she'll
+with your own life, so she'll
 keep on living.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
@@ -977,7 +977,8 @@ taken by this Gajuma!</EnglishText>
       <PointerOffset>7117</PointerOffset>
       <VoiceId>2f00008e</VoiceId>
       <JapaneseText>気安く名前を呼ばないで!!</JapaneseText>
-      <EnglishText>How dare you speak my name!</EnglishText>
+      <EnglishText>How can you utter my
+name so casually?!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>79</Id>
@@ -1096,15 +1097,15 @@ family, and yet...</EnglishText>
       <JapaneseText>……俺を憎め。俺を殺すために生きろ。
 俺にはやらなくてはならない事がある。
 今はまだ、死ぬわけにはいかない。</JapaneseText>
-      <EnglishText>...Hate me. Make my death your
-purpose for living. There's still
-something I have to do, so I
-can't let myself die just yet.</EnglishText>
-      <Notes>the similar line inquestion
-</Notes>
+      <EnglishText>...Hate me. Live so that you
+can take my life with your own
+hands. There's still something I
+need to do, so I can't let myself
+die just yet.</EnglishText>
+      <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>88</Id>
-      <Status>Problematic</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7574</PointerOffset>

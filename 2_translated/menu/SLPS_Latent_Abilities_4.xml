@@ -102,10 +102,15 @@ so they're perfect for learning the ropes.</EnglishText>
       <JapaneseText>寒さに強いバイラスが多く生息するエリア。
 特定の攻撃後にバイラスがガードするので
 攻撃と防御にメリハリをつけて行動しよう。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>An area full of Biruses resistant to Ice.
+They defend after specific attacks, so
+make sure you balance offense and defense!</EnglishText>
+      <Notes>An area infested with ice-resistant Biruses.
+As the Biruses defend immediately after
+specific attacks,  be sure to strike a balance
+between offense and defence here.</Notes>
       <Id>2254</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1064904</PointerOffset>
@@ -128,10 +133,12 @@ so they're perfect for learning the ropes.</EnglishText>
       <JapaneseText>植物や昆虫が多く生息するエリア。
 ＲＧの変動で攻撃方法が変化するバイラスが
 いるので慎重に行動しよう。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>An area infested with plants and bugs.
+The Biruses here change their attacks
+depending on your RG, so be careful!</EnglishText>
+      <Notes>Second Sentence, "Because there are Biruses that change their attacks based on your RG fluctuation, be careful"</Notes>
       <Id>2257</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1064936</PointerOffset>
@@ -154,10 +161,18 @@ so they're perfect for learning the ropes.</EnglishText>
       <JapaneseText>ミナール周辺のバイラスに加え、雨のフォルス
 に反応し集まったバイラスが生息するエリア。
 今まで覚えたことを再確認しながら戦おう。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Biruses native to the Minal Region as well as
+Biruses attracted to the Force of Rain have gathered here.
+This is a good spot to prove what you've learned about fighting!
+
+</EnglishText>
+      <Notes>"Fight while reconfirming what you've learned up to now"
+An area inhabited by Biruses native
+to the Minal region as well as those
+attracted by the Force of Rain present.
+A good place to test what you've learned.</Notes>
       <Id>2260</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1064968</PointerOffset>
@@ -196,10 +211,13 @@ so they're perfect for learning the ropes.</EnglishText>
       <JapaneseText>森に生息する植物のバイラスが中心のエリア。
 こちらのＲＧに反応してガードするので
 自分のＲＧの量に気をつけよう。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An area in the center of the forest inhabited
+by plant Biruses. They guard on reaction
+to your RG, so be sure to keep an eye on it!
+</EnglishText>
       <Notes/>
       <Id>2265</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1065032</PointerOffset>
@@ -222,10 +240,12 @@ so they're perfect for learning the ropes.</EnglishText>
       <JapaneseText>さまざまな種族のバイラスが生息するエリア。
 遠距離攻撃や導術を使うバイラスがいるので
 なるべくそいつらを先に倒そう。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An area inhabited by many different kinds of Biruses.
+Some of them have long ranged attacks as well as
+Force Magic. Let's target them first!</EnglishText>
       <Notes/>
       <Id>2268</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1065064</PointerOffset>
@@ -240,10 +260,12 @@ so they're perfect for learning the ropes.</EnglishText>
       <JapaneseText>人工物や汚物がバイラス化したバイラスが
 生息するエリア。毒をもつバイラスがいるので
 きちんと対策してから戦おう。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The machines and waste here morphed into Biruses.
+Some of these guys can poison us, so let's make
+sure we're ready before we try to fight them.</EnglishText>
       <Notes/>
       <Id>2270</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1065080</PointerOffset>
@@ -274,10 +296,14 @@ so they're perfect for learning the ropes.</EnglishText>
       <JapaneseText>素早いバイラスが多く生息するエリア。
 相手の動きに惑わされたり、隊列を崩されない
 ように全体を把握しながら戦おう。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An area with a lot of speedy Biruses. We'll need to
+keep our head as we fight. Don't let their movements
+confuse you or break our formation!
+
+</EnglishText>
       <Notes/>
       <Id>2274</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1065128</PointerOffset>
@@ -324,18 +350,22 @@ so they're perfect for learning the ropes.</EnglishText>
       <JapaneseText>光を好まない異形バイラスが生息するエリア。
 水が抵抗となり移動速度が遅くなるので
 遠距離からの攻撃をうまく使おう。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The the Biruses here are weird and dislike light.
+Walking against the water current here will slow us down,
+so we should make the most out of our ranged attacks,
+
+</EnglishText>
       <Notes/>
       <Id>2280</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1065208</PointerOffset>
       <JapaneseText>カレーズ仕掛け</JapaneseText>
       <EnglishText/>
-      <Notes/>
+      <Notes>カレーズ仕掛け = Karez mechanism? Device? Is this a room in Karez that has some kind of trap?</Notes>
       <Id>2281</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>1065224,1066424</PointerOffset>
@@ -350,10 +380,13 @@ so they're perfect for learning the ropes.</EnglishText>
       <JapaneseText>暑さに強いバイラスが生息するエリア。
 状態異常の攻撃に気をつけながら
 きっちり弱点を見極めよう。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Biruses resistant to heat live here.
+We need to watch out for status effects
+while pinpointing the enemy's weakness!
+</EnglishText>
       <Notes/>
       <Id>2283</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1065240</PointerOffset>

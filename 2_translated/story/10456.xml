@@ -215,10 +215,11 @@ right outside.</EnglishText>
 身のためだよ。
 中には力加減を知らない
 ヤツもいるからねえ。</JapaneseText>
-      <EnglishText>It's in your best interests to not get
-any funny ideas, now. Some of my
-men don't know when the use of
-excessive force isn't appropriate.</EnglishText>
+      <EnglishText>It's in your best interests to
+not get any funny ideas, now.
+Some of my men don't know
+when the use of excessive
+force isn't appropriate.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
@@ -255,11 +256,11 @@ your safety is assured.</EnglishText>
 決して悪いようにはしない。
 だから、泣いたり、嘆いたりしないで。
 悲しみは美しさに影を落としてしまうから。</JapaneseText>
-      <EnglishText>You girls are quite important to us.
-Absolutely no harm will come to you.
+      <EnglishText>You girls are most precious; I will
+make sure no harm comes to you.
 So please, no fussing or crying.
-Grief does have a tendency to cast
-a shadow over beauty, after all.</EnglishText>
+Sorrow will cast a shadow over
+your beauty, after all.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>8</Id>
@@ -290,7 +291,7 @@ seeing you later!</EnglishText>
       <PointerOffset>3365</PointerOffset>
       <VoiceId>1c000068</VoiceId>
       <JapaneseText>……去りなさい。</JapaneseText>
-      <EnglishText>Leave.</EnglishText>
+      <EnglishText>...Leave.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
@@ -304,8 +305,8 @@ seeing you later!</EnglishText>
 協力者だってコトは
 お見通しなんだからネ。</JapaneseText>
       <EnglishText>We can't do that. You see,
-we know you're the man
-who is helping Walto.</EnglishText>
+we know you're the one
+helping Walto.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>12</Id>
@@ -329,7 +330,7 @@ who is helping Walto.</EnglishText>
 暗示を解く言葉が何か、
 教えやがれ!!</JapaneseText>
       <EnglishText>We don't have time for this!
-Hurry up and tell us the word
+Hurry up and tell us the phrase
 we need to turn the lift
 operator back to normal!</EnglishText>
       <Notes/>
@@ -366,9 +367,9 @@ priest is hypnotized as well?</EnglishText>
 街の他の男たちとは
 別のきっかけで、
 暗示をかけられている。</JapaneseText>
-      <EnglishText>Most likely, although from a
-different catalyst than that of
-the other men in town.</EnglishText>
+      <EnglishText>Most likely, albeit from a
+different catalyst than that
+of the other men in town.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>17</Id>
@@ -379,9 +380,9 @@ the other men in town.</EnglishText>
       <VoiceId>1c00006f</VoiceId>
       <JapaneseText>じゃあ、それを探して、
 祭司の暗示を解けばいいんだな？</JapaneseText>
-      <EnglishText>Then we just need to look for
-that, and we can free the priest
-from hypnosis?</EnglishText>
+      <EnglishText>Then we just need to look
+for that, and we can free
+the priest from his hypnosis?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>18</Id>
@@ -410,7 +411,7 @@ just like the man we met earlier.</EnglishText>
 暗示を与えるきっかけになったか、
 わからなくなる。</JapaneseText>
       <EnglishText>If the priest returns to normal, he
-won't know which word was used
+won't know what words were used
 as the catalyst for the townspeople.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
@@ -423,9 +424,9 @@ as the catalyst for the townspeople.</EnglishText>
       <JapaneseText>それじゃあ、
 リフトを動かす事は
 できないって事？</JapaneseText>
-      <EnglishText>So what you're saying is we
-won't be able to get the lift
-back in operation?</EnglishText>
+      <EnglishText>So what you're saying is
+we won't be able to get
+the lift back in operation?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>21</Id>
@@ -437,8 +438,9 @@ back in operation?</EnglishText>
       <JapaneseText>チクショウ……
 これじゃ、街の中を
 探し回った意味がないぜ！</JapaneseText>
-      <EnglishText>Damnit... Then what were we
-running around all over town for?!</EnglishText>
+      <EnglishText>Damnit... Then what were
+we running around all over
+town for?!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>22</Id>
@@ -450,9 +452,10 @@ running around all over town for?!</EnglishText>
       <JapaneseText>答えは必ずあるんだ。
 探せば見つかるはずだ。
 きっと近くにある……</JapaneseText>
-      <EnglishText>There has to be a solution! We
-should be able to find it if we just
-keep looking. It must be close...</EnglishText>
+      <EnglishText>There has to be a solution!
+We should be able to find
+it if we just keep looking.
+It must be close...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>23</Id>
@@ -464,8 +467,9 @@ keep looking. It must be close...</EnglishText>
       <JapaneseText>……そう、ですよね。
 暗示をかけられた人は単純な
 会話しかできないわけですから……</JapaneseText>
-      <EnglishText>...That's true. Those being hypnotized
-are only able to have very basic
+      <EnglishText>...That's true. Those being
+hypnotized are only able
+to have very basic
 conversations...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
@@ -481,10 +485,9 @@ conversations...</EnglishText>
 怪しく思われない言葉だと思うんです。</JapaneseText>
       <EnglishText>Meaning that the priest, if he is
 in charge of lifting the hypnosis,
-has to be using a word that isn't
-used in daily conversation but would
-not sound strange coming from a
-holy figure, right?</EnglishText>
+has to be using a phrase that
+wouldn't sound strange coming
+from a religious figure.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>25</Id>
@@ -546,8 +549,8 @@ coming for me, &lt;Veigue&gt;...</EnglishText>
       <PointerOffset>7277</PointerOffset>
       <JapaneseText>本当に、逃げ出す
 方法なんてあるの？</JapaneseText>
-      <EnglishText>Is there really no way
-for us to escape?</EnglishText>
+      <EnglishText>Would we really be
+able to escape?</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>30</Id>
@@ -557,9 +560,9 @@ for us to escape?</EnglishText>
       <PointerOffset>7300</PointerOffset>
       <JapaneseText>きっと、チャンスはあるわ。
 みんなで考えましょう。</JapaneseText>
-      <EnglishText>We'll get our chance someday, I
-know it! We'll think of a way
-out together.</EnglishText>
+      <EnglishText>We'll get our chance someday,
+I know it! We'll think of a
+way out together.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>31</Id>
@@ -583,9 +586,9 @@ Tohma's, then I could...</EnglishText>
       <JapaneseText>……レベッカ、
 何か助かる方法があるわ。
 一緒に方法を考えましょう。</JapaneseText>
-      <EnglishText>Rebecca, there must be some way
-to escape from here. Let's think
-of one together.</EnglishText>
+      <EnglishText>Rebecca, there must be some
+way to escape from here.
+Let's think of one together.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>33</Id>
@@ -604,7 +607,7 @@ of one together.</EnglishText>
       <PointerOffset>7409</PointerOffset>
       <JapaneseText>そう。だから、
 そんな事考えちゃダメ。</JapaneseText>
-      <EnglishText>That's right. So there's no
+      <EnglishText>That's right. There's no
 need to be negative.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
@@ -765,8 +768,8 @@ we get out of this?</EnglishText>
       <PointerOffset>7030</PointerOffset>
       <JapaneseText>何言ってるの？　
 私たちはもう友達でしょ？</JapaneseText>
-      <EnglishText>What are you saying? Aren't
-we already friends?</EnglishText>
+      <EnglishText>What are you saying?
+Aren't we already friends?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>48</Id>
@@ -870,8 +873,8 @@ everything else will follow suit.</EnglishText>
       <PointerOffset>6514</PointerOffset>
       <JapaneseText>誰かが助けに
 来てくれる事を信じて……</JapaneseText>
-      <EnglishText>Believing that someone would
-come and save you...</EnglishText>
+      <EnglishText>Believing that someone
+is coming to save you...</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>57</Id>
@@ -881,8 +884,9 @@ come and save you...</EnglishText>
       <PointerOffset>6536</PointerOffset>
       <JapaneseText>前向きに考える事が
 肝心よ、&lt;Claire&gt;。</JapaneseText>
-      <EnglishText>That positive outlook of
-yours is essential, &lt;Claire&gt;.</EnglishText>
+      <EnglishText>Where would we be
+without your positive
+outlook, &lt;Claire&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>58</Id>
@@ -942,8 +946,8 @@ us. We just need to believe in that.</EnglishText>
       <PointerOffset>6358</PointerOffset>
       <JapaneseText>本当にクレアのお友達が
 助けに来てくれるの？</JapaneseText>
-      <EnglishText>Will Claire's friend really
-be coming to rescue us?</EnglishText>
+      <EnglishText>Is your friend really
+coming to rescue us?</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>63</Id>
@@ -988,9 +992,9 @@ rescue us before long.</EnglishText>
 私に何かあった時は
 &lt;Veigue&gt;が来てくれた……
 だから一緒にがんばりましょう！</JapaneseText>
-      <EnglishText>&lt;Veigue&gt; has always been there
-for me whenever I needed him.
-So let's just hold on a little longer!</EnglishText>
+      <EnglishText>&lt;Veigue&gt; has always been there for
+me whenever I needed him. So
+let's just hold on a little longer!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>67</Id>
@@ -1003,8 +1007,9 @@ So let's just hold on a little longer!</EnglishText>
       <PointerOffset>4510</PointerOffset>
       <JapaneseText>祭司がどんなところで口にしても
 おかしくない言葉……</JapaneseText>
-      <EnglishText>A phrase that would not seem out
-of place when said by a priest...</EnglishText>
+      <EnglishText>I wonder what sort of phrases
+wouldn't seem out of the
+ordinary for the priest to say...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>68</Id>
@@ -1017,8 +1022,8 @@ of place when said by a priest...</EnglishText>
       <PointerOffset>4484</PointerOffset>
       <JapaneseText>怪しそうなのを
 片っぱしから試してやろうぜ！</JapaneseText>
-      <EnglishText>Then let's go try out
-any likely phrases!</EnglishText>
+      <EnglishText>Let's look at anything
+that might have clues!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>69</Id>
@@ -1033,10 +1038,10 @@ any likely phrases!</EnglishText>
 暗示を解く役目を担っているのなら、
 単純で、他の人に聞かれても
 大丈夫な言葉だと思うんですけど。</JapaneseText>
-      <EnglishText>If the priest is in charge of lifting the
-hypnosis then I think that phrase should
-be something simple and not out of place
-coming from him.</EnglishText>
+      <EnglishText>If the priest is in charge of lifting
+the hypnosis, then I think that phrase
+should be something simple and not
+out of place coming from him.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>70</Id>
@@ -1051,10 +1056,11 @@ coming from him.</EnglishText>
 ヤツの使う手段は常道だ。
 よく考えれば、答えが
 見つかるはずだ。</JapaneseText>
-      <EnglishText>Walto may be a wary person, but
-his ways are predictable. We might 
-find the answer if we think about 
-it hard enough.</EnglishText>
+      <EnglishText>Walto may try to cover all
+his bases, but his methods
+never change. If we think
+hard, we should be able to
+figure it out.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>71</Id>
@@ -1339,8 +1345,8 @@ with mutual understanding...</EnglishText>
       <PointerOffset>1674</PointerOffset>
       <JapaneseText>外には見張りはいるし……
 出られないわ……</JapaneseText>
-      <EnglishText>There's a guard outside...
-I can't get out...</EnglishText>
+      <EnglishText>There are guards outside...
+I can't leave...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>96</Id>
@@ -1391,10 +1397,9 @@ script before...</EnglishText>
       <VoiceId>1c00007a</VoiceId>
       <JapaneseText>古代カレギア文字で
 &lt;Blue&gt;蒼獣聖典&lt;White&gt;と書いてあるわ。</JapaneseText>
-      <EnglishText>The &lt;Blue&gt;Azure Beast's Scripture&lt;White&gt;
-is written in the ancient
-Callegean language.</EnglishText>
-      <Notes/>
+      <EnglishText>It has "&lt;Blue&gt;Azure Beast's Scripture&lt;White&gt;"
+written on it in ancient Callegean.</EnglishText>
+      <Notes>SL edit</Notes>
       <SpeakerId>7</SpeakerId>
       <Id>100</Id>
       <Status>Proofreading</Status>
@@ -1429,8 +1434,8 @@ phrases are also used in fortune-telling.</EnglishText>
       <VoiceId>1c00007d</VoiceId>
       <JapaneseText>……しおりがはさんであるけど、
 このページ……</JapaneseText>
-      <EnglishText>There's a bookmark inserted at
-this page...</EnglishText>
+      <EnglishText>There's a bookmark inserted
+at this page...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>103</Id>
@@ -1489,8 +1494,8 @@ gonna be okay?</EnglishText>
       <VoiceId>1c000082</VoiceId>
       <JapaneseText>気絶させただけだ。
 答の目星がついたからな。</JapaneseText>
-      <EnglishText>I just knocked him out. We're
-close to solving this.</EnglishText>
+      <EnglishText>I just knocked him out.
+We're close to solving this.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>108</Id>
@@ -1531,10 +1536,10 @@ among the words that she just read.</EnglishText>
 という事は、今の一節の中に
 答があるはずって事ね。</JapaneseText>
       <EnglishText>The woman from earlier said
-her husband was told a single
-word, right? Then it must be
-somewhere in this verse.</EnglishText>
-      <Notes/>
+her husband was told a short
+phrase, right? Then it must
+be somewhere in this verse.</EnglishText>
+      <Notes>一言 here is like two words considering the puzzle solution</Notes>
       <SpeakerId>7</SpeakerId>
       <Id>111</Id>
       <Status>Proofreading</Status>
@@ -1556,11 +1561,12 @@ the lift operator!</EnglishText>
       <JapaneseText>その前に祭司様を手伝ったご家族の方に、
 祭司様が何か言ってなかったかを聞けば、
 答がわかるかもしれません。</JapaneseText>
-      <EnglishText>Before we do that, we should also visit
-the families of the people who were
-working for the priest. We might figure
-out the right word by asking them if
-the priest said anything.</EnglishText>
+      <EnglishText>Before we do that, we should also
+visit the families of the people
+who were working for the priest.
+We might figure out the right
+words by asking them if the priest
+said anything.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>113</Id>
@@ -1766,8 +1772,8 @@ It's shaped like a letter.</EnglishText>
       <PointerOffset>2316</PointerOffset>
       <JapaneseText>ここに、手がかりらしき
 ものはないか……</JapaneseText>
-      <EnglishText>There's nothing here that looks 
-like it can be used as a clue...</EnglishText>
+      <EnglishText>I don't think there are
+any clues here...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>127</Id>
@@ -1795,8 +1801,9 @@ Similar bridges are built all over Babilograd.</EnglishText>
       <JapaneseText>特別、何かの手がかりに
 なるようなものでもないとは
 思うが……</JapaneseText>
-      <EnglishText>I don't think this is anything
-special... or a clue...</EnglishText>
+      <EnglishText>I don't think this will
+be of any particular
+help...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>129</Id>
@@ -1824,8 +1831,8 @@ makes it hard to read.</EnglishText>
       <PointerOffset>2142</PointerOffset>
       <JapaneseText>この中に手がかりは……
 なさそうだな……</JapaneseText>
-      <EnglishText>It doesn't look like there's
-something here...</EnglishText>
+      <EnglishText>I don't think it's
+in here...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>131</Id>
@@ -1844,7 +1851,7 @@ something here...</EnglishText>
 発行禁止になった。</JapaneseText>
       <EnglishText>&lt;speed:0&gt;- Azure Beast Scriptures -
 This book is about the creation of
-the whole world according to the 
+an absolute world according to the 
 Azure Beast's faith. It was banned
 from publication because of its
 radical content.</EnglishText>
@@ -1859,8 +1866,9 @@ radical content.</EnglishText>
 鍵となる言葉にするには
 あまり適切でないが……</JapaneseText>
       <EnglishText>It's full of difficult words...
-I don't think there's anything
-here that can be used as a key...</EnglishText>
+But I don't think there's anything
+in here that would be used as
+the catalyst.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>133</Id>
@@ -1876,9 +1884,9 @@ here that can be used as a key...</EnglishText>
 儀式の時に火を灯すなどする時に
 調法な品。</JapaneseText>
       <EnglishText>&lt;speed:0&gt;- Candlestick -
-This is lit during ceremonies,
-and, naturally, after twilight
-falls. A very useful item.</EnglishText>
+These candles are not only lit
+when night falls, but also during
+rituals.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>134</Id>
@@ -1918,8 +1926,9 @@ propagate the faith throughout Callegea.</EnglishText>
       <PointerOffset>1881</PointerOffset>
       <JapaneseText>ここから暗示の鍵となる言葉を
 探すのは大変そうだな……</JapaneseText>
-      <EnglishText>It's going to be hard to find 
-the keyword in here.</EnglishText>
+      <EnglishText>I think finding the phrase
+in this book would be
+difficult...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>137</Id>
